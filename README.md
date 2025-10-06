@@ -30,4 +30,4 @@ Master’s student in **Artificial Intelligence & Computer Security**, passionat
 
 ---
 
-> 🎁 This project is more than code — it’s a celebration of **7 years of friendship** and a way to make distance feel a little smaller.  
+> 🎁 This project is more than code it’s a celebration of **7 years of friendship** and a way to make distance feel a little smaller.  
